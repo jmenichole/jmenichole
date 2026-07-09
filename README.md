@@ -27,7 +27,7 @@ I formalize attack patterns as [Glider](https://glide.gitbook.io/main/glider-ide
 
 - **Glider Query Database:** [r.xyz/glider-query-database](https://r.xyz/glider-query-database)
 - **Leaderboard:** [r.xyz/glider-query-database/leaderboard](https://r.xyz/glider-query-database/leaderboard)
-- **LinkedIn:** *[add your URL]*
+- **LinkedIn:** [linkedin.com/in/jmenichole0](https://www.linkedin.com/in/jmenichole0)
 
 ---
 

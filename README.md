@@ -1,42 +1,60 @@
-# Jamie Vargas · jmenichole
+# Jamie Vargas
 
-Web3 security researcher · bug bounty · automation · building bots that actually ship
+I build bots, automations, and AI tools that make messy work feel easier, faster, and more human.
+
+I like turning boring, repetitive systems into something useful — whether it’s a Discord bot, a workflow tool, an accessibility product, or an AI assistant that helps people get unstuck.
+
+## What I do
+
+- Build automation for communities, creators, and small teams
+- Design AI tools that solve real problems instead of adding noise
+- Prototype products quickly and ship the ones that matter
+- Turn repetitive work into systems people actually enjoy using
+
+## Featured work
+
+- Accessibility-bridge — AI-powered voice navigation for people with motor impairments.
+- FreezeFix — a focus tool for ADHD and task drift, built around micro-tasks and momentum.
+- dustbunnyai — AI cleanup for email and inbox privacy.
+- BakeOps — AI support for bakers with mockups, scheduling, and booking workflows.
+- Brand-Aura — AI-powered brand generation for creative projects.
+- justthebuilder / justthehelper — fast Discord tooling for setup, onboarding, reminders, and community support.
+- FreeSpinsChannelBot — automation for community moderation and content routing.
+- PorterPlays / trivia.live / tiltcheck-royale — community, gaming, and live-event systems.
+- Glider Query DB — security research tooling and pattern detection for EVM smart contracts.
+
+## Why it matters
+
+I care about building software that reduces friction in real life:
+
+- less busywork
+- clearer tools
+- smoother workflows
+- better access for more people
+- systems that feel useful, not overwhelming
+
+## Wins
+
+- Built and shipped tools across AI, productivity, automation, and community systems.
+- Worked across product, tooling, and workflow design rather than just one layer.
+- Turned messy operational problems into practical, usable software.
+- Blended technical execution with product thinking: build, learn, refine, repeat.
+
+## Big bets for the future
+
+- AI for accessibility and daily life
+- automation for small teams and creators
+- community tools that reduce chaos instead of adding more of it
+- practical AI agents that help people do real work
+- trust, safety, and research tooling that makes systems clearer and safer
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/jmenichole0
+- GitHub: https://github.com/jmenichole
+
+If it can be automated, I want to make it useful.
 
 ---
 
-## Security research
-
-| | |
-|---|---|
-| **Glider Query DB** | [#1 on leaderboard](https://r.xyz/glider-query-database/leaderboard) — rarest contributor tier to date |
-| **Approvals** | **Legendary** + **Epic** query contributions ([r.xyz](https://r.xyz/glider-query-database)) |
-| **Focus** | Upgradeable proxies (UUPS), access control, query optimization & triage |
-
-I formalize attack patterns as [Glider](https://glide.gitbook.io/main/glider-ide/writing-queries) queries — executable Solidity pattern detectors used across EVM chains — and work through professional triage until they land in the public query library.
-
-**Representative work**
-- Optimization of Legendary UUPS uninitialized-implementation detection (`_disableInitializers`, `Contracts().mains()`, recursive callee analysis)
-- Optimization of Uniswap V3 callback `msg.sender` validation queries
-- Case-study & testnet validation; false-positive tradeoffs documented for production triage
-
-> Vulnerabilities found with Glider belong to researchers. [Contest rules](https://r.xyz/glider-query-database/contest-rules-and-rewards) · no platform fee on bounties.
-
----
-
-## Elsewhere
-
-- **Glider Query Database:** [r.xyz/glider-query-database](https://r.xyz/glider-query-database)
-- **Leaderboard:** [r.xyz/glider-query-database/leaderboard](https://r.xyz/glider-query-database/leaderboard)
-- **LinkedIn:** [linkedin.com/in/jmenichole0](https://www.linkedin.com/in/jmenichole0)
-
----
-
-## Stack & interests
-
-`Solidity` · `EVM` · bug bounty methodology · Burp · Python automation · Glider · security tooling
-
-Problem-solving junkie. Tilt professional. Girl who codes. Fakin it til I automate it — then formalize it in Glider.
-
----
-
-*Profile README · last updated July 2026*
+Profile README · updated October 2026

@@ -1,60 +1,62 @@
 # Jamie Vargas
 
-I build bots, automations, and AI tools that make messy work feel easier, faster, and more human.
+I build bots, automations, and AI tools that make work less annoying and life a little smoother.
 
-I like turning boring, repetitive systems into something useful — whether it’s a Discord bot, a workflow tool, an accessibility product, or an AI assistant that helps people get unstuck.
+If a process is repetitive, broken, or mildly cursed, I’m probably trying to automate it into something useful.
 
 ## What I do
 
-- Build automation for communities, creators, and small teams
-- Design AI tools that solve real problems instead of adding noise
-- Prototype products quickly and ship the ones that matter
-- Turn repetitive work into systems people actually enjoy using
+- Build bots and workflow automations for communities, tools, and teams
+- Design AI products that solve real problems instead of just adding more tabs
+- Ship prototypes fast, then keep the ones that actually matter
+- Turn chaos into systems people can use without wanting to scream
 
 ## Featured work
 
-- Accessibility-bridge — AI-powered voice navigation for people with motor impairments.
-- FreezeFix — a focus tool for ADHD and task drift, built around micro-tasks and momentum.
-- dustbunnyai — AI cleanup for email and inbox privacy.
-- BakeOps — AI support for bakers with mockups, scheduling, and booking workflows.
-- Brand-Aura — AI-powered brand generation for creative projects.
-- justthebuilder / justthehelper — fast Discord tooling for setup, onboarding, reminders, and community support.
-- FreeSpinsChannelBot — automation for community moderation and content routing.
-- PorterPlays / trivia.live / tiltcheck-royale — community, gaming, and live-event systems.
-- Glider Query DB — security research tooling and pattern detection for EVM smart contracts.
+- Accessibility-bridge — AI-powered voice navigation for users with motor impairments
+- FreezeFix — a focus and task-flow tool for ADHD and attention drift
+- dustbunnyai — AI-assisted inbox cleanup and privacy management
+- BakeOps — AI support for bakery scheduling, mockups, and bookings
+- Brand-Aura — AI-powered brand generation
+- justthebuilder / justthehelper — Discord tooling for onboarding, reminders, and community ops
+- FreeSpinsChannelBot — automation for moderation and content routing
+- PorterPlays / trivia.live / tiltcheck-royale — community, gaming, and live-event systems
+- Glider Query DB — security research tooling and pattern detection for EVM smart contracts
 
-## Why it matters
+## My vibe
 
-I care about building software that reduces friction in real life:
+I like making tools that remove friction:
 
 - less busywork
-- clearer tools
-- smoother workflows
+- fewer manual tasks
 - better access for more people
-- systems that feel useful, not overwhelming
+- more useful software, less filler
+
+I’m the kind of builder who sees a pain point, blinks once, and immediately starts sketching an automation in my head.
 
 ## Wins
 
-- Built and shipped tools across AI, productivity, automation, and community systems.
-- Worked across product, tooling, and workflow design rather than just one layer.
-- Turned messy operational problems into practical, usable software.
-- Blended technical execution with product thinking: build, learn, refine, repeat.
+- Built and shipped tools across AI, productivity, automation, and community systems
+- Worked across product, tooling, and workflow design instead of just one layer
+- Turned messy operational problems into usable software
+- Built things that are useful in the real world, not just impressive in a demo
 
-## Big bets for the future
+## Future bets
 
-- AI for accessibility and daily life
-- automation for small teams and creators
-- community tools that reduce chaos instead of adding more of it
+- AI for accessibility and everyday life
+- automation for creators, communities, and small teams
+- tools that reduce chaos instead of creating more
 - practical AI agents that help people do real work
-- trust, safety, and research tooling that makes systems clearer and safer
+- security and trust tooling that makes systems clearer and safer
 
-## Links
+## If it can be automated, I probably want to build it
 
-- LinkedIn: https://www.linkedin.com/in/jmenichole0
-- GitHub: https://github.com/jmenichole
-
-If it can be automated, I want to make it useful.
+And if it can’t be automated yet, I’ll probably try to make it 10x easier anyway.
 
 ---
 
-Profile README · updated October 2026
+LinkedIn: https://www.linkedin.com/in/jmenichole0
+GitHub: https://github.com/jmenichole
+
+“Fakin’ it till I automate it.”
+Then I turn the automation into a product.
